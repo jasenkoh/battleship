@@ -26,6 +26,7 @@ The start of an example game is the following (you can assume that Player 2 is a
 
 Player 1, please enter the start square for your ship: <player enters "B3" on the console and hits enter>
 Player 1, please enter the end square for your ship: <player enters "B5" on the console and hits enter>
+
 ```
 Board Status:
 ......
@@ -36,10 +37,10 @@ Board Status:
 ......
 ```
 
+```
 Player 2, you have 10 guesses left.  Please enter your guess: <player enters "E2" on the console and hits enter>
 That was a miss!
 
-```
 Board Status:
 ......
 ......
@@ -49,10 +50,10 @@ Board Status:
 ......
 ```
 
+```
 Player 2, you have 9 guesses left.  Please enter your guess: <player enters "B4" on the console and hits enter>
 That was a hit!
 
-```
 Board Status:
 ......
 ...X..
@@ -62,10 +63,10 @@ Board Status:
 ......
 ```
 
+```
 Player 2, you have 8 guesses left.  Please enter your guess: <player enters "B3" on the console and hits enter>
 That was a hit!
 
-```
 Board Status:
 ......
 ..XX..
@@ -73,8 +74,8 @@ Board Status:
 ......
 .O....
 ......
-```
 
 Player 2, you have 7 guesses left.  Please enter your guess: <player enters "B5" on the console and hits enter>
 You won!
+```
 
